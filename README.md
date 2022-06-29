@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Santos Guerra</h1>
 <h3>A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
+
 - 🔭 I’m currently working on [Ugami, Inc.](https://ugami.com/)
 - 🌱 I’m currently learning in **Platzi**
 - 🥇 I write various articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
@@ -8,10 +9,6 @@
 - 💬 Ask me about **SEO, WordPress, Digital Marketing, Graphic Design.**
 - 📫 How to reach me **hola@santosguerra.com**
 - 📄 Know about my experiences [https://santosguerra.com/](https://santosguerra.com/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
