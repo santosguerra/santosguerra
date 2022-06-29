@@ -1,26 +1,12 @@
-<h1 align="center">Hi 👋, I'm Santos Guerra</h1>
-<h3 align="center">A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosguerra&label=Profile%20views&color=0e75b6&style=flat" alt="santosguerra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosguerra" alt="santosguerra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ilvwp" target="blank"><img src="https://img.shields.io/twitter/follow/ilvwp?logo=twitter&style=for-the-badge" alt="ilvwp" /></a> </p>
-
+<h1>Hi 👋, I'm Santos Guerra</h1>
+<h3>A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
 - 🔭 I’m currently working on [Ugami, Inc.](https://ugami.com/)
-
 - 🌱 I’m currently learning in **Platzi**
-
 - 🥇 I write various articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
-
 - 🤝 I’m looking for help with [https://desarrolloscreativos.net/portafolio/](https://desarrolloscreativos.net/portafolio/)
-
 - 📝 I regularly write articles on [https://ilvwp.com/](https://ilvwp.com/)
-
 - 💬 Ask me about **SEO, WordPress, Digital Marketing, Graphic Design.**
-
 - 📫 How to reach me **hola@santosguerra.com**
-
 - 📄 Know about my experiences [https://santosguerra.com/](https://santosguerra.com/)
 
 ### Blogs posts
@@ -43,8 +29,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/santosguerra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santosguerra" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosguerra&show_icons=true&locale=en&layout=compact" alt="santosguerra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosguerra&show_icons=true&locale=en" alt="santosguerra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosguerra&" alt="santosguerra" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosguerra" alt="santosguerra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dragondeluz" target="blank"><img src="https://img.shields.io/twitter/follow/dragondeluz?logo=twitter&style=for-the-badge" alt="dragondeluz" /></a> </p>
