@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Santos Guerra</h1>
 <h3>A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
 
-- 🔭 I’m currently working on [Ugami, Inc.](https://ugami.com/)
+- 🔭 I’m currently working on [Dragondeluz](https://dragondeluz.com/)
 - 🌱 I’m currently learning in **Platzi**
 - 🥇 I write various articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
 - 🤝 I’m looking for help with [https://desarrolloscreativos.net/portafolio/](https://desarrolloscreativos.net/portafolio/)
