@@ -1,12 +1,9 @@
 <h1>Hi 👋, I'm Santos Guerra</h1>
 <h3>A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
 
-- 🔭 I’m currently working on [Dragondeluz](https://dragondeluz.com/)
-- 🌱 I’m currently learning in **Platzi**
-- 🥇 I write various articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
-- 🤝 I’m looking for help with [https://desarrolloscreativos.net/portafolio/](https://desarrolloscreativos.net/portafolio/)
-- 📝 I regularly write articles on [https://ilvwp.com/](https://ilvwp.com/)
-- 💬 Ask me about **SEO, WordPress, Digital Marketing, Graphic Design.**
+- 🥇 I write various informative articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
+- 📝 I regularly write technical articles on [https://ilvwp.com/](https://ilvwp.com/)
+- 💬 Ask me about **SEO, WordPress, Digital Marketing.**
 - 📫 How to reach me **hola@santosguerra.com**
 - 📄 Know about my experiences [https://santosguerra.com/](https://santosguerra.com/)
 
