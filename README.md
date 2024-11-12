@@ -2,10 +2,10 @@
 <h3>A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
 
 - 🥇 I write various informative articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
-- 📝 I regularly write technical articles on [https://ilvwp.com/](https://ilvwp.com/)
+- 📝 I regularly write technical articles on [I Love WordPress](https://ilvwp.com/)
 - 💬 Ask me about **SEO, WordPress, Digital Marketing.**
 - 📫 How to reach me **hola@santosguerra.com**
-- 📄 Know about my experiences [https://santosguerra.com/](https://santosguerra.com/)
+- 📄 Know about my experiences [santosguerra.com](https://santosguerra.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
