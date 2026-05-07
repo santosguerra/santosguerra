@@ -2,19 +2,16 @@
 <h3>A Catlover who enjoys doing SEO or anything interesting that can be automated or programmed.</h3>
 
 - 🥇 I write various informative articles in [Desarrollos Creativos](https://desarrolloscreativos.net/)
-- 📝 I regularly write technical articles on [I Love WordPress](https://ilvwp.com/)
+- 📝 I regularly write technical and experiences on [santosguerra.com](https://santosguerra.com/)
 - 💬 Ask me about **SEO, WordPress, Digital Marketing.**
 - 📫 How to reach me **hola@santosguerra.com**
-- 📄 Know about my experiences [santosguerra.com](https://santosguerra.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ilvwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilvwp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosguerra" height="30" width="40" /></a>
-<a href="https://fb.com/elsantosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elsantosguerra" height="30" width="40" /></a>
-<a href="https://instagram.com/elsantosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elsantosguerra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/santosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santosguerra" height="30" width="40" /></a>
-<a href="/https://santosguerra.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://santosguerra.com/feed/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosguerra" height="30" width="40" />LinkedIn</a>
+<a href="https://www.youtube.com/c/santosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santosguerra" height="30" width="40" />Youtube</a>
+<a href="https://www.tiktok.com/@santosguerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="santosguerra" height="30" width="40" />Tik Tok</a>
+<a href="/https://santosguerra.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://santosguerra.com/feed/" height="30" width="40" />Website</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
